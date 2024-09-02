@@ -9,4 +9,4 @@ python manage.py collectstatic --no-input
 
 python manage.py makemigrations
 python manage.py migrate
-python manage.py populate_db --no-input
+python manage.py populate_db
